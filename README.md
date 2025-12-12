@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar-kumar01" alt="sagar-kumar01" /></a> </p>
 
-- 💬 Ask me about **DSA,HTML,CSS,JavaScript,React**
+- 💬 Ask me about **DSA,HTML,CSS,JavaScript,React,NodeJs,MongoDB**
 
 - 📫 How to reach me **sagarsoni32896@gmail.com**
 
